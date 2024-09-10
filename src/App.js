@@ -143,7 +143,7 @@ function App() {
     <>
     <Router>
       <Navbar
-        title="TextUtils2"
+        title="WordTweak"
         aboutText="TextAbouts"
         mode={mode}
         toggleMode={toggleMode}
